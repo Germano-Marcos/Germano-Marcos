@@ -1,7 +1,9 @@
+<div align="center">
 Oi! Eu sou Germano Marcos
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
+🔭 Hoje trabalho com front-end
+🌱 Estudando JavaScript
+</div>
 
 <div align="center">
   <a href="https://github.com/Germano-Marcos">
