@@ -1,7 +1,7 @@
 <div align="center">
-Oi! Eu sou Germano Marcos
+  <h3>Oi! Eu sou Germano Marcos</h3>
 
-🔭 Hoje trabalho com front-end
+🔭 Hoje trabalho com front-end <br>
 🌱 Estudando JavaScript
 </div>
 
