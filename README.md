@@ -2,7 +2,6 @@ Oi! Eu sou Germano Marcos
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Germano-Marcos">
